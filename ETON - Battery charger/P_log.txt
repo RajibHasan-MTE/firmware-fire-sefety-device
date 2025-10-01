@@ -1,0 +1,10 @@
+
+APP Version : 13.04   Model : T48  MFG:2025-05-29
+     Device : ATMEGA168 @TQFP32
+Pins Detected Passed!
+ID: 0x 1E 94 06 ......OK!
+Reading FLASH ...Succeeded. Time : 375ms
+Reading EEPROM ...Succeeded. Time : 31ms
+Reading Config ...Succeeded. Time : 0ms
+Read Lock bits ............Elapsed time: 0ms
+Read Finished!
